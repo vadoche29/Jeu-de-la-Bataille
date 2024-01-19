@@ -1,4 +1,5 @@
 Enoncé
+
 Un soir, deux frères profitent de l'absence de leurs parents pour commander des burgers. Pour ne pas laisser de trace, l'un d'entre eux doit descendre les poubelles avant minuit. Ils décident de se départager au jeu de la bataille. Le principe est simple, chaque joueur a le même nombre de cartes et à chaque tour, chaque joueur présente une carte. Celui qui a la carte de plus grande valeur remporte le point. Si les deux cartes ont la même valeur, personne ne remporte le point. Le gagnant du jeu est celui qui a le plus de points à la fin.
 
 L'objectif de ce challenge est de déterminer qui ne descendra pas les poubelles ce soir (gagnant de la partie).
